@@ -1,4 +1,4 @@
-![Bem vindos] (https://github.com/edertinti/edertinti/blob/main/header.png)
+<img src="https://github.com/edertinti/edertinti/blob/main/header.png"/>
 
 # Olá parceiro, sou o Éder Tinti
 
