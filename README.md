@@ -1,3 +1,5 @@
+![Bem vindos] (https://github.com/edertinti/edertinti/blob/main/header.png)
+
 # Olá parceiro, sou o Éder Tinti
 
 * 👨‍💻 Este repositório tem o propósito de abrigar os projetos que estudo e/ou trabalho.
